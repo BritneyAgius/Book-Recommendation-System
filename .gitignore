@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Src/goodreads_interactions.csv
+Src/goodreads_books.json.gz
+Src/Dataset Kagger/goodreads_books.json
