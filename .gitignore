@@ -130,3 +130,4 @@ dmypy.json
 Src/goodreads_interactions.csv
 Src/goodreads_books.json.gz
 Src/Dataset Kagger/goodreads_books.json
+Src/books_titles.json
