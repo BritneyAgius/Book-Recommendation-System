@@ -1,0 +1,8 @@
+pip install --upgrade pip
+pip install virtualenv
+virtualenv britney
+source ./britney/bin/activate
+pip install pandas 
+pip install jupyter 
+pip install scikit-learn
+ipython kernel install --name "anomaly-venv-kernel" --user
