@@ -5,4 +5,4 @@ source ./britney/bin/activate
 pip install pandas 
 pip install jupyter 
 pip install scikit-learn
-ipython kernel install --name "anomaly-venv-kernel" --user
+ipython kernel install --name "britney-kernel" --user
