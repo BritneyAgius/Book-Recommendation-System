@@ -1,4 +1,5 @@
 src/goodreads_books.json.gz
+src/books_titles.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
