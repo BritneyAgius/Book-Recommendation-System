@@ -136,3 +136,10 @@ Src/Dataset Kagger/goodreads_books.json
 Src/books_titles.json
 Src/.DS_Store
 .DS_Store
+Src/1. Machine Learning Project/goodreads_books.json.gz
+Src/1. Machine Learning Project/goodreads_interactions.csv
+Src/1. Machine Learning Project/book_id_map.csv
+Src/1. Machine Learning Project/books_titles.json
+Src/Takethree.ipynb
+Src/liked_books.csv
+Src/liked_books.csv

@@ -1,28 +1,106 @@
 ,user_id,book_id,rating,title
-0,-1,2517439,5,"The Forever War  (The Forever War, #1)"
-1,-1,113576,5,The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron
-2,-1,35100,5,Battle Cry of Freedom
-3,-1,228221,5,The Mask of Command
-5,-1,17662739,5,"2001: A Space Odyssey  (Space Odyssey, #1)"
-6,-1,356824,5,India After Gandhi: The History of the World's Largest Democracy
-7,-1,12125412,5,The Lady or the Tiger?: and Other Logic Puzzles
-8,-1,139069,5,Endurance: Shackleton's Incredible Voyage
-10,-1,76680,5,"Foundation  (Foundation, #1)"
-11,-1,1898,5,Into Thin Air: A Personal Account of the Mount Everest Disaster
-12,-1,5096865,5,In Cold Blood
-13,-1,228665,5,"The Eye of the World  (The Wheel of Time, #1)"
-17,-1,437143,5,A Short History of Nearly Everything
-18,-1,18949861,5,Contact
-19,-1,2913377,5,"The Name of the Wind  (The Kingkiller Chronicle, #1)"
-20,-1,1215032,5,"The Wise Man's Fear  (The Kingkiller Chronicle, #2)"
-21,-1,883438,5,East of Eden
-22,-1,5578108,5,From Colony to Superpower: U.S. Foreign Relations Since 1776
-23,-1,128029,5,A Thousand Splendid Suns
-24,-1,77203,5,The Kite Runner
-25,-1,5439,5,Interpreter of Maladies
-26,-1,1685995,5,Dune  (Dune #1)
-27,-1,6448772,5,"Quantum: Einstein, Bohr, and the Great Debate about the Nature of Reality"
-527,-1,8161140,1,On the Beach
-528,-1,28187,1,"The Lightning Thief  (Percy Jackson and the Olympians, #1)"
-531,-1,25659450,1,Arkwright
-532,-1,82599,1,Rabbits: A Novel
+0,-1,17788401,3,Ugly Love
+1,-1,60310757,5,"Lightlark (Lightlark, #1)"
+2,-1,58410355,5,Nightbane (Lightlark #2)
+3,-1,64645812,0,If Only I Had Told Her
+4,-1,44676678,4,If He Had Been with Me
+5,-1,29236380,4,Girl in Pieces
+6,-1,36411676,3,LIGHT WE LOST PB
+7,-1,63120226,4,Never Never
+8,-1,62058385,5,"Twisted Lies (Twisted, #4)"
+9,-1,62056935,5,"Twisted Hate (Twisted, #3)"
+10,-1,58583724,5,"Twisted Games (Twisted, #2)"
+11,-1,62057697,5,Twisted Love (Twisted #1)
+12,-1,59469573,4,"Roxanne. (Van Den Bosch, #1)"
+13,-1,56764328,4,"Defying Eternity (Blossom in Winter, #4)"
+14,-1,60156155,5,"Things We Never Got Over (Knockemout, #1)"
+15,-1,60395726,4,Andries. (Van Den Bosch #2)
+16,-1,62022434,5,"Things We Hide from the Light (Knockemout, #2)"
+17,-1,59344312,5,Verity
+18,-1,30141182,2,Madness
+19,-1,30340276,2,"Going Solo (Girl Online, #3)"
+20,-1,32571395,4,"One of Us Is Lying (One of Us is Lying, #1)"
+21,-1,32620332,5,The Seven Husbands of Evelyn Hugo
+22,-1,23546634,5,The Way I Used to Be
+23,-1,3962191,2,Why Mars and Venus Collide: Improve Your Relationships by Understanding How Men and Women Cope Differently with Stress
+24,-1,23208406,3,On Tour (Girl Online #2)
+25,-1,13913,2,How To Have A Beautiful Mind
+26,-1,49183047,3,Let It Snow
+27,-1,50910459,4,Lured into Love (Blossom in Winter #2)
+28,-1,60393672,5,"It Starts with Us (It Ends with Us, #2)"
+29,-1,56625215,5,"Authentically, Uniquely You: Living Free from Comparison and the Need to Please"
+30,-1,58346977,5,Reminders of Him
+31,-1,35216509,5,"They Both Die at the End (Death-Cast, #1)"
+32,-1,27362503,5,"It Ends with Us (It Ends with Us, #1)"
+33,-1,75634451,5,A Dance in the Dark
+34,-1,59723790,5,The First to Die at the End
+35,-1,28953400,2,Othello
+36,-1,8045416,4,To Kill a Mockingbird
+37,-1,36206591,5,Love and Other Words
+38,-1,53137938,5,The Things We Leave Unfinished
+39,-1,25912358,5,A Thousand Boy Kisses
+40,-1,58925247,5,Say You Swear
+41,-1,63121129,4,Dan. (Van Den Bosch Book 4)
+42,-1,62583279,4,Elise. (Van Den Bosch Book 3)
+43,-1,40916679,4,"A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)"
+44,-1,44582454,4,Regretting You
+45,-1,34324605,4,Confess
+46,-1,59641216,3,"Friends, Lovers, and the Big Terrible Thing"
+47,-1,58438584,3,"Idiots: Marriage, Motherhood, Milk & Mistakes"
+48,-1,59366244,3,I'm Glad My Mom Died
+49,-1,22628,2,The Perks of Being a Wallflower
+50,-1,56537772,5,"Lured into Lies (Blossom in Winter, #3)"
+51,-1,22886110,5,I Hate Myselfie: A Collection of Essays
+52,-1,17329426,3,How Not to Be a Dick: An Everyday Etiquette Guide
+53,-1,49240716,5,"Blossom in Winter (Blossom in Winter, #1)"
+54,-1,40744562,2,A Sucky Love Story: Overcoming Unhappily Ever After
+55,-1,13206900,2,"Winter (The Lunar Chronicles, #4)"
+56,-1,8366074,3,"The Handmaid's Tale (The Handmaid's Tale, #1)"
+57,-1,15994514,3,A Christmas Carol
+58,-1,25853025,2,Romeo and Juliet
+59,-1,35504431,5,Turtles All the Way Down
+60,-1,3444633,2,"The Happiness Trap: Stop Struggling, Start Living"
+61,-1,11870085,5,The Fault in Our Stars
+62,-1,23513349,5,milk and honey
+63,-1,13206828,2,"Cress (The Lunar Chronicles, #3)"
+64,-1,13206760,2,"Scarlet (The Lunar Chronicles, #2)"
+65,-1,36381037,2,"Cinder (The Lunar Chronicles, #1)"
+66,-1,20910157,3,Yes Please
+67,-1,9418327,3,Bossypants
+68,-1,18460392,3,All the Bright Places
+69,-1,28763485,3,The Sun Is Also a Star
+70,-1,19547856,2,"Simon vs. the Homo Sapiens Agenda (Simonverse, #1)"
+71,-1,32075671,3,"The Hate U Give (The Hate U Give, #1)"
+72,-1,6567017,3,"Will Grayson, Will Grayson"
+73,-1,36574833,5,Blame It on Bianca Del Rio: The Expert on Nothing with an Opinion on Everything
+74,-1,32181998,5,Doing It!: Let's Talk About Sex
+75,-1,34144430,3,Bad Girls with Perfect Faces
+76,-1,29429875,3,Where Am I Now?
+77,-1,49750,3,An Abundance of Katherines
+78,-1,6273,3,The Collected Poems of Wilfred Owen
+79,-1,35017042,4,99 Red Balloons
+80,-1,6393407,1,The Haunting of Hill House
+81,-1,25480342,4,A Monster Calls
+82,-1,9723667,3,And Then There Were None
+83,-1,25812109,3,The Female of the Species
+84,-1,11387515,4,"Wonder (Wonder, #1)"
+86,-1,33641244,5,The Power
+87,-1,34452568,3,The Boy on the Bridge: Extended Free Preview
+88,-1,17235026,3,"The Girl with All the Gifts (The Girl with All the Gifts, #1)"
+89,-1,25014114,4,History Is All You Left Me
+90,-1,9361589,5,The Night Circus
+91,-1,16057372,5,All My Friends Are Superheroes
+92,-1,13117292,4,"The Death Cure (Maze Runner, #3)"
+93,-1,27274328,5,It Gets Worse: A Collection of Essays
+94,-1,29429807,3,Dear Nobody (The Originals)
+95,-1,1457100,2,Atonement
+96,-1,25330591,3,Girl Online
+97,-1,22521951,4,Written in the Stars
+98,-1,22886113,3,A Work in Progress
+99,-1,10911181,3,"The Scorch Trials (Maze Runner, #2)"
+100,-1,12382940,5,"The Maze Runner (Maze Runner, #1)"
+101,-1,23003206,4,Everything I Never Told You
+102,-1,3437,1,The Curious Incident of the Dog in the Night-Time
+103,-1,4378870,3,The Boy in the Striped Pajamas
+104,-1,18690890,3,Paper Towns
+105,-1,17416065,4,Looking for Alaska
