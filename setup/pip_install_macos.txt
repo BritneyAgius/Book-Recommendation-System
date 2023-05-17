@@ -5,7 +5,4 @@ source ./britney/bin/activate
 pip install pandas 
 pip install jupyter 
 pip install scikit-learn
-pip install scikit-surprise
-!pip install fuzzywuzzy
-pip install requests Pillow
 ipython kernel install --name "britney-kernel" --user

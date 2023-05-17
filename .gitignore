@@ -150,3 +150,6 @@ Src/2. Collaborative Filtering/books_titles.json
 Src/book_id_map.csv
 Src/liked_books.csv
 Src/liked_books.csv
+Src/1. Machine Learning Project/search.ipynb
+Src/1. Machine Learning Project/recommendations.ipynb
+*.ipynb
