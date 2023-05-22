@@ -26,6 +26,8 @@ pip install requests Pillow
 
 # References
 
+# My Github: https://github.com/BritneyAgius/COM.Mcast.Project.BritneyAgius
+
 # Collaborative Filtering:
 - [YouTube Tutorial] (https://www.youtube.com/watch?v=mrWzQy_Lddc)
 - [Github] (https://github.com/dataquestio/project-walkthroughs/tree/master/books)
